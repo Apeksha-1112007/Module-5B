@@ -14,8 +14,10 @@ To write a Python program using **NumPy** that finds the indices where elements 
 
 ## 🧾 Program
 
-Add code here
+<img width="1171" height="354" alt="Screenshot 2025-12-28 132738" src="https://github.com/user-attachments/assets/4283322d-4c72-4536-8ad1-1b8aa39b3e7c" />
 
 ## Output
+<img width="729" height="205" alt="Screenshot 2025-12-28 132757" src="https://github.com/user-attachments/assets/0fe4d180-df6c-4368-9dab-6e7ee69c6bfd" />
 
 ## Result
+Thus the program is successfully executed.
